@@ -1,0 +1,10 @@
+Cần crawl Dữ liệu 4 quý gần nhất, 4 năm gần nhất, lũy kế 6 thág từ URL (https://s.cafef.vn/bao-cao-tai-chinh/VCB/BSheet/2023/1/0/0/bao-cao-tai-chinh-ngan-hang-thuong-mai-co-phan-ngoai-thuong-viet-nam.chn)
+https://s.cafef.vn/BaoCaoTaiChinh.aspx?symbol=VCB&type=IncSta&year=2022&quarter=0
+
+Lưu các dữ liệu dưới dạng gì để có thể dễ dàng truy vấn và Visual nhất ? csv
+Làm sao lấy được URL của tất cả các doanh nghiệp để tự động Crawl ?
+Cách xem các API khi bấm vào từng nơi ? 
+Tổ chức dữ liệu như thế nào ?
+
+
+
